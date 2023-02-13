@@ -8,14 +8,12 @@ import Contacto from "./components/Contacto.vue";
 import Footer from "./components/Footer.vue";
 </script>
 <template>
-  <div>
-    <Nav></Nav>
-    <Inicio></Inicio>
-    <About></About>
-    <Skills></Skills>
-    <Portfolio></Portfolio>
-    <Contacto></Contacto>
-    <Footer></Footer>
-  </div>
+  <Nav></Nav>
+  <Inicio></Inicio>
+  <About></About>
+  <Skills></Skills>
+  <Portfolio></Portfolio>
+  <Contacto></Contacto>
+  <Footer></Footer>
 </template>
 
