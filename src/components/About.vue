@@ -62,7 +62,7 @@
         </div>
       </div>
       <router-link to='/pdf' id="pdf" class="button">
-        Descargar CV <i class="fa-solid fa-download"></i>
+        PDF <i class="fa-solid fa-download"></i>
         <span class="overlay"></span>
       </router-link>
     </div>
