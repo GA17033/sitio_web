@@ -61,10 +61,10 @@
           </div>
         </div>
       </div>
-      <button id="pdf">
+      <router-link to='/pdf' id="pdf" class="button">
         Descargar CV <i class="fa-solid fa-download"></i>
         <span class="overlay"></span>
-      </button>
+      </router-link>
     </div>
   </section>
 </template>
