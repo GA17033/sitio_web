@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router";
-import Inicio from "../views/Inicio.vue"
-import Pdf from "../views/Pdf.vue"
+import Inicio from "../Views/Inicio.vue"
+import Pdf from "../Views/Pdf.vue"
 
 const routes = [
   {
