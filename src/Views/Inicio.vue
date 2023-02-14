@@ -1,12 +1,12 @@
 <script setup>
-import Nav from '../Components/Nav.vue';
-import Inicio from "../Components/Inicio.vue";
-import About from "../Components/About.vue";
-import Skills from "../Components/Skills.vue";
-import Portfolio from "../Components/Portfolio.vue";
-import Contacto from "../Components/Contacto.vue";
-import Footer from "../Components/Footer.vue";
-import Pdf from "../Components/Pdf.vue";
+import Nav from '../components/Nav.vue';
+import Inicio from "../components/Inicio.vue";
+import About from "../components/About.vue";
+import Skills from "../components/Skills.vue";
+import Portfolio from "../components/Portfolio.vue";
+import Contacto from "../components/Contacto.vue";
+import Footer from "../components/Footer.vue";
+import Pdf from "../components/Pdf.vue";
 </script>
 <template>
   <Nav></Nav>
@@ -15,6 +15,5 @@ import Pdf from "../Components/Pdf.vue";
   <Skills></Skills>
   <Portfolio></Portfolio>
   <Contacto></Contacto>
-  <!-- <Pdf></Pdf> -->
   <Footer></Footer>
 </template>

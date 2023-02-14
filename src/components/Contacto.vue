@@ -26,7 +26,7 @@
               <ul>
                 <li>
                   <i class="fa-solid fa-location-dot"></i>
-                  Direccion: El salvador San Salvador , San Salvador
+                  Direccion: El salvador San Salvador
                 </li>
                 <li>
                   <i class="fa-solid fa-mobile"></i>
