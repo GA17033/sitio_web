@@ -3,11 +3,11 @@
     <div class="contenido-seccion">
       <h2>Sobre Mí</h2>
       <p>
-        <span>Hola, soy Alexis Garcia.</span> Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Quisquam unde soluta minima
-        necessitatibus, voluptas consectetur vero officiis quas, explicabo
-        deleniti repellendus aliquid debitis maiores numquam voluptate
-        reprehenderit in delectus dolores.
+        <span>Hola, soy Alexis Garcia.</span> Desde el inicio de mi carrera como
+        estudiante de Ingenieria de sistemas informaticos , me han convertido en
+        una persona con metas claras, cada dia me levanto con las ganas de
+        aprender nuevos temas esto hace de mi una persona constante, curioso y
+        sin miedos de enfrentarme a nuevos retos..
       </p>
 
       <div class="row">
@@ -61,7 +61,7 @@
           </div>
         </div>
       </div>
-      <router-link to='/pdf' id="pdf" class="button">
+      <router-link to="/pdf" id="pdf" class="button">
         PDF <i class="fa-solid fa-download"></i>
         <span class="overlay"></span>
       </router-link>
