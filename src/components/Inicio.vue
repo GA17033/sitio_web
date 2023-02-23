@@ -7,9 +7,9 @@
       <h1>Alexis Garcia</h1>
       <h2>Estudiante de ingenieria de sistemas</h2>
       <div class="redes">
-        <a href=""><i class="fa-brands fa-facebook"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100032369061354"><i class="fa-brands fa-facebook"></i></a>
         <a href=""><i class="fa-brands fa-twitter"></i></a>
-        <a href=""><i class="fa-brands fa-github"></i></a>
+        <a href="https://github.com/GA17033"><i class="fa-brands fa-github"></i></a>
         <a href=""><i class="fa-brands fa-instagram"></i></a>
         <a href=""><i class="fa-brands fa-linkedin"></i></a>
       </div>
