@@ -2,7 +2,7 @@
   <section id="inicio" class="inicio">
     <div class="contenido-banner">
       <div class="contenedor-img">
-        <img src="../assets/img/descarga.png" alt="" />
+        <img src="../assets/img/cbimage.png" alt="" />
       </div>
       <h1>Alexis Garcia</h1>
       <h2>Estudiante de ingenieria de sistemas</h2>
